@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260841033668",
+    "project_id": "apk-inventori",
+    "storage_bucket": "apk-inventori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260841033668:android:e76d135e4205a34b369e91",
+        "android_client_info": {
+          "package_name": "com.example.project_akhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQ9FN3dAtzQHsRys-_zdJRoRP1O1lgRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
